@@ -4,6 +4,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import RootNavigator from '../navigators/RootNavigator';
 
 const RootComponent = () => {
+
   return (
     <NavigationContainer>
       <RootNavigator />
